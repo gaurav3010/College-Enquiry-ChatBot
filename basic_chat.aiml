@@ -1,0 +1,276 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+    <pattern>ONE TIME I *</pattern>
+    <template>
+        <random>
+            <li>Go on.</li>
+            <li>How old are you?</li>
+            <li>Be more specific.</li>
+            <li>I did not know that.</li>
+            <li>Are you telling the truth?</li>
+            <li>I don't know what that means.</li>
+            <li>Try to tell me that another way.</li>
+            <li>Are you talking about an animal, vegetable or mineral?</li>
+            <li>What is it?</li>
+        </random>
+    </template>
+</category>
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            Well, hello!
+        </template>
+    </category>
+    
+    <category>
+        <pattern>How ARE YOU</pattern>
+        <template>
+            I'm a bot, silly!
+        </template>
+    </category>
+
+    <category>
+        <pattern>GAURAV</pattern>
+        <template>
+            Yes
+        </template>
+    </category>
+
+<!-- Computer -->
+    <category>
+        <pattern>COMPUTER SEM1</pattern>
+        <template>
+            Computer Sem-1 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>COMPUTER SEM2</pattern>
+        <template>
+            http://www.bvmengineering.ac.in/comman_page1.aspx?page_id=24
+        </template>
+    </category>
+
+    <category>
+        <pattern>COMPUTER SEM3</pattern>
+        <template>
+            Computer Sem-3 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>COMPUTER SEM4</pattern>
+        <template>
+            Computer Sem-4 course is here
+        </template>
+    </category>
+
+<!-- IT -->
+    <category>
+        <pattern>IT SEM1</pattern>
+        <template>
+            IT Sem-1 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>IT SEM2</pattern>
+        <template>
+            IT Sem-2 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>IT SEM3</pattern>
+        <template>
+            IT Sem-3 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>IT SEM4</pattern>
+        <template>
+            IT Sem-4 course is here
+        </template>
+    </category>
+
+<!-- Electronics -->
+    <category>
+        <pattern>ELECTRONICS SEM1</pattern>
+        <template>
+            Electronics Sem-1 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>ELECTRONICS SEM2</pattern>
+        <template>
+            Electronics Sem-2 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>ELECTRONICS SEM3</pattern>
+        <template>
+            Electronics Sem-3 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>ELECTRONICS SEM4</pattern>
+        <template>
+            Electronics Sem-4 course is here
+        </template>
+    </category>
+
+<!-- Electrical -->
+    <category>
+        <pattern>ELECTRICAL SEM1</pattern>
+        <template>
+            Electrical Sem-1 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>ELECTRICAL SEM2</pattern>
+        <template>
+            Electrical Sem-2 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>ELECTRICAL SEM3</pattern>
+        <template>
+            Electrical Sem-3 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>ELECTRICAL SEM4</pattern>
+        <template>
+            Electrical Sem-4 course is here
+        </template>
+    </category>
+
+<!-- Mechanical -->
+    <category>
+        <pattern>MECHANICAL SEM1</pattern>
+        <template>
+            Mechanical Sem-1 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>MECHANICAL SEM2</pattern>
+        <template>
+            Mechanical Sem-2 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>MECHANICAL SEM3</pattern>
+        <template>
+            Mechanical Sem-3 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>MECHANICAL SEM4</pattern>
+        <template>
+            Mechanical Sem-4 course is here
+        </template>
+    </category>
+
+<!-- Civil -->
+    <category>
+        <pattern>CIVIL SEM1</pattern>
+        <template>
+            Civil Sem-1 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>CIVIL SEM2</pattern>
+        <template>
+            Civil Sem-2 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>CIVIL SEM3</pattern>
+        <template>
+            Civil Sem-3 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>CIVIL SEM4</pattern>
+        <template>
+            Civil Sem-4 course is here
+        </template>
+    </category>
+
+<!-- Production -->
+    <category>
+        <pattern>PRODUCTION SEM1</pattern>
+        <template>
+            Production Sem-1 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>PRODUCTION SEM2</pattern>
+        <template>
+            Production Sem-2 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>PRODUCTION SEM3</pattern>
+        <template>
+            Production Sem-3 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>PRODUCTION SEM4</pattern>
+        <template>
+            Production Sem-4 course is here
+        </template>
+    </category>
+
+<!-- Electronics and Communication -->
+    <category>
+        <pattern>EC SEM1</pattern>
+        <template>
+            Electronics and Communication Sem-1 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>EC SEM2</pattern>
+        <template>
+            Electronics and Communication Sem-2 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>EC SEM3</pattern>
+        <template>
+            Electronics and Communication Sem-3 course is here
+        </template>
+    </category>
+
+    <category>
+        <pattern>EC SEM4</pattern>
+        <template>
+            Electronics and Communication Sem-4 course is here
+        </template>
+    </category>
+
+
+    
+</aiml>
